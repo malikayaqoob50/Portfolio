@@ -27,17 +27,7 @@ function App() {
       <main>
         <section className="hero">
           <div className="container">
-            <h1 className="h1tag">
-              <Typical
-                steps={[
-                  "I'M Malika Yaqoob", 2000,
-                  "Web Developer", 2000,
-                  "MERN Stack Dev", 2000,
-                ]}
-                loop={Infinity}
-                wrapper="span"
-              />
-            </h1>
+            <h1>Hi, I'M Malika Yaqoob </h1>
             <p>A passionate Full Stack Developer crafting modern, responsive websites using the MERN stack.
                I turn ideas into interactive digital experiences.</p>
             <Link to="projects" smooth={true} duration={500}>
