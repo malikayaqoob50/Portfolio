@@ -1,6 +1,5 @@
 // App.jsx
 import React from "react";
-import Typical from "react-typical";
 import { Link, Element } from "react-scroll";
 import "./style.css";
 
